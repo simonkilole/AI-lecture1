@@ -8,7 +8,7 @@ I am Simon Kilole, currently an MSc student at the University of Embu.
 # Current Goals
 -Building projects in AI
 - Deep Learning
-#Future goals
+# Future goals
 -Emerge as one of the best students in the course.
 - Scholarship/job at BCS labs
 # Repository purpose
